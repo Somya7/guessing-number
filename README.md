@@ -1,6 +1,6 @@
 # guessing-number
 
-Game To Guess any number between 1 t0 20
+Game To Guess any number between 1 to 20
 Keeps Track of highest score
 
 
